@@ -1,0 +1,47 @@
+.rt-marquee .marquee {
+  box-sizing: border-box;
+  color: var(--e-global-color-accent);
+  font-weight: 200;
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+.rt-marquee .marquee .marquee-content {
+  display: flex;
+  animation: marquee 30s linear infinite;
+  gap: 2rem;
+}
+.rt-marquee .marquee .marquee-content.right {
+  animation-direction: reverse;
+}
+.rt-marquee .marquee .marquee-content.hover_on:hover {
+  animation-play-state: paused;
+}
+.rt-marquee .marquee .marquee-tag {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.2s ease;
+  gap: 2rem;
+}
+.rt-marquee .marquee .marquee-tag h3 {
+  font-size: 2.5rem;
+  font-weight: 500;
+  color: var(--e-global-color-b82bca8);
+}
+.rt-marquee .marquee .marquee-tag .marquee-icon svg {
+  width: 43px;
+  height: 43px;
+}
+.rt-marquee .marquee .marquee-tag:hover {
+  cursor: pointer;
+}
+@keyframes marquee {
+  0% {
+    transform: translateX(-50%);
+  }
+  100% {
+    transform: translateX(0%);
+  }
+}/*# sourceMappingURL=marquee.css.map */

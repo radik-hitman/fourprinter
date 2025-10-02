@@ -1,0 +1,257 @@
+:root {
+  --e-global-color-primary: #5836C7;
+  --e-global-color-secondary: #FFD200;
+  --e-global-color-text: #000000;
+  --e-global-color-accent: #ffffff;
+  --e-global-color-b82bca8: #0e0e0f;
+  --e-global-typography-primary-font-family: var(--font-family-primary);
+  --e-global-typography-primary-font-weight: 400;
+  --e-global-typography-primary-font-size: 16px;
+  --e-global-typography-text-font-family: var(--font-family-secondary);
+  --e-global-typography-text-font-weight: 700;
+  --transition: all 0.5s ease;
+}
+
+body {
+  overflow-x: hidden;
+}
+
+body::-webkit-scrollbar,
+#de_modal::-webkit-scrollbar {
+  width: 6px;
+  background: #f6f6f6;
+}
+
+body::-webkit-scrollbar-thumb {
+  background-color: var(--e-global-color-primary);
+  border-radius: 6px;
+}
+
+/* -----------------------
+    AnimeJS Important CSS
+--------------------------*/
+[data-anime],
+[data-anime] .e-con {
+  transition: 0s !important;
+}
+
+/*--------------------------------------------------------------
+Heading  css
+--------------------------------------------------------------*/
+.react-heading {
+  position: relative;
+}
+.react-heading .title span {
+  color: var(--e-global-color-primary);
+}
+.react-heading .title .heading-after-image {
+  margin-left: 5px;
+}
+.react-heading .title .heading-after-image svg {
+  width: 48px;
+}
+.react-heading .title.bg_clip_title, .react-heading .title.bg_clip_title_span span {
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* -----------------------
+    Accordion
+--------------------------*/
+.rts-accordion .accordion-item {
+  background-color: var(--e-global-color-accent);
+  border: 2px solid var(--e-global-color-text);
+  box-shadow: 2px 2px 0 0 var(--e-global-color-text);
+}
+.rts-accordion .accordion-item .accordion-header .accordion-title {
+  display: block;
+}
+.rts-accordion .accordion-item .accordion-header .accordion-icon,
+.rts-accordion .accordion-item .accordion-header .number {
+  position: absolute;
+  right: 0;
+  top: 50%;
+  width: 48px;
+  height: 48px;
+  font-size: 48px;
+  color: var(--e-global-color-text);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.2s ease;
+  transform: translateY(-50%);
+}
+.rts-accordion .accordion-item .accordion-header .accordion-icon.active,
+.rts-accordion .accordion-item .accordion-header .number.active {
+  opacity: 0;
+  visibility: hidden;
+}
+.rts-accordion .accordion-item .accordion-header .title-icon {
+  display: inline-block;
+  width: 36px;
+  margin-left: 10px;
+}
+@media only screen and (max-width: 767px) {
+  .rts-accordion .accordion-item .accordion-header .title-icon {
+    width: 28px;
+  }
+}
+.rts-accordion .accordion-item .accordion-header .uc-accordion-title {
+  -webkit-text-fill-color: var(--e-global-color-secondary);
+  -webkit-text-stroke: 1px var(--e-global-color-text);
+}
+.rts-accordion .accordion-item .accordion-header .uc-accordion-title[aria-expanded=true] .accordion-icon.active {
+  opacity: 1;
+  visibility: visible;
+}
+.rts-accordion .accordion-item .accordion-header .uc-accordion-title[aria-expanded=true] .accordion-icon.hide {
+  opacity: 0;
+  visibility: hidden;
+}
+.rts-accordion .accordion-item .accordion-header .uc-accordion-title::before {
+  display: none;
+}
+.rts-accordion .accordion-item .accordion-body {
+  margin-top: 10px;
+}
+
+/* -----------------------
+    Features Box
+--------------------------*/
+.icon-2 {
+  line-height: 24px;
+}
+
+.rt_icon_box svg {
+  width: 100%;
+  height: 100%;
+}
+
+/* -----------------------
+    Blog 
+--------------------------*/
+.blog-gird-item .blog_img img {
+  height: 100% !important;
+}
+
+/* -----------------------
+    Testimonial
+--------------------------*/
+.testi-rating .star {
+  position: relative;
+  color: #f2b827;
+  display: inline-block;
+  font-family: "rt-icons";
+  font-weight: 600;
+  font-size: 16px;
+  height: 16px;
+  width: 16px;
+}
+.testi-rating .star.star-full:before {
+  content: "\e821";
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.testi-rating .star.star-empty:before {
+  content: "\e82b";
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+.testi-rating .star.star-half:before {
+  content: "\e82a";
+  position: absolute;
+  left: 0;
+  top: 0;
+}
+
+.testi_underline {
+  text-decoration: underline !important;
+}
+.testi_underline:hover {
+  text-decoration: none !important;
+}
+
+.button-pagination-area {
+  text-align: center;
+}
+.button-pagination-area .testimonial-pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 8px;
+}
+
+.rts-testimonials-area-one.testimonial-nav-style3 {
+  margin-top: -35px;
+  position: relative;
+  z-index: 1;
+}
+.rts-testimonials-area-one.testimonial-nav-style3 .testimonial-pagination {
+  justify-content: flex-end !important;
+}
+
+.rt-pricing-area.style8 .bl-inherit::before {
+  border-left: 1px solid !important;
+}
+.rt-pricing-area.style8 .p_btn {
+  font-weight: 500;
+}
+.rt-pricing-area.style8 .p_btn2 {
+  text-decoration: underline;
+  color: inherit;
+}
+.rt-pricing-area.style8 .p_btn2:hover {
+  text-decoration: none;
+}
+
+.e-n-tabs-heading .e-n-tab-title-text {
+  flex-direction: column;
+}
+.e-n-tabs-heading .e-n-tab-title-text p {
+  margin-top: 8px;
+  margin-bottom: 0;
+  font-weight: 400;
+  font-size: 1rem;
+  color: var(--e-global-color-text);
+}
+
+.rt_e_tabsTitle_border_yes .e-n-tab-title::before, .rt_e_tabsTitle_border_yes .e-n-tab-title::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 3px;
+}
+.rt_e_tabsTitle_border_yes .e-n-tab-title::before {
+  width: 100%;
+  background-color: var(--color-gray-25);
+}
+.rt_e_tabsTitle_border_yes .e-n-tab-title::after {
+  width: 0%;
+  transition: 0s cubic-bezier(1, 0, 0, 1);
+}
+.rt_e_tabsTitle_border_yes .e-n-tab-title[aria-selected=true]::after {
+  background-color: var(--e-global-color-primary);
+  width: 100%;
+  transition-duration: 0.5s;
+}
+.rt_e_tabsTitle_border_yes.rt-e-tab-border-top .e-n-tab-title::before, .rt_e_tabsTitle_border_yes.rt-e-tab-border-top .e-n-tab-title::after {
+  bottom: unset;
+  top: 0;
+}
+
+.elementor-widget-n-tabs .e-n-tabs-heading .e-n-tab-title {
+  white-space: normal !important;
+}
+
+.rtmega-menu-mobile-button svg {
+  height: auto;
+}
+
+.rtmega-menu-area .mobile-menu-area.opened .overlay {
+  height: 100vh;
+}/*# sourceMappingURL=elements.css.map */

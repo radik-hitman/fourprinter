@@ -1,0 +1,556 @@
+Uri: https://asterprinter.cash/
+File Name: F:\asterprinter.cash\index.htm
+Content Type: text/html
+
+Uri: https://asterprinter.cash/comments/feed/
+File Name: F:\asterprinter.cash\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://asterprinter.cash/feed/
+File Name: F:\asterprinter.cash\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://asterprinter.cash/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.1.1
+File Name: F:\asterprinter.cash\wp-content\plugins\contact-form-7\includes\css\styles.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.1.1
+File Name: F:\asterprinter.cash\wp-content\plugins\contact-form-7\includes\js\index.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.1.1
+File Name: F:\asterprinter.cash\wp-content\plugins\contact-form-7\includes\swv\js\index.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/css/widget-heading.min.css?ver=3.32.2
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\css\widget-heading.min.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/css/widget-icon-list.min.css?ver=3.24.3
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\css\widget-icon-list.min.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/css/widget-image.min.css?ver=3.32.2
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\css\widget-image.min.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/css/widget-social-icons.min.css?ver=3.24.0
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\css\widget-social-icons.min.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/css/widget-spacer.min.css?ver=3.32.2
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\css\widget-spacer.min.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.32.2
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.32.2
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.32.2
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.34.0
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.eot?5.44.0
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.svg?5.44.0
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.svg
+Content Type: image/svg+xml
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.ttf?5.44.0
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.44.0
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff2
+Content Type: font/woff2
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.44.0
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\eicons\fonts\eicons.woff
+Content Type: font/woff
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.css?ver=5.15.3
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.css?ver=5.15.3
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.css?ver=5.15.3
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.eot?
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.svg
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.ttf
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.eot?
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.svg
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.ttf
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://asterprinter.cash/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2
+File Name: F:\asterprinter.cash\wp-content\plugins\elementor\assets\lib\font-awesome\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://asterprinter.cash/wp-content/plugins/muchwow-elements/assets/css/elements.css?ver=6.8.3
+File Name: F:\asterprinter.cash\wp-content\plugins\muchwow-elements\assets\css\elements.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/plugins/muchwow-elements/assets/js/smooth-scroll.js?ver=1
+File Name: F:\asterprinter.cash\wp-content\plugins\muchwow-elements\assets\js\smooth-scroll.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/plugins/muchwow-elements/inc/animejs/js/animejs-data-attr-helper.js?ver=1.0.0
+File Name: F:\asterprinter.cash\wp-content\plugins\muchwow-elements\inc\animejs\js\animejs-data-attr-helper.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/plugins/muchwow-elements/inc/animejs/js/animejs-helper.js?ver=1.0.0
+File Name: F:\asterprinter.cash\wp-content\plugins\muchwow-elements\inc\animejs\js\animejs-helper.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/plugins/muchwow-elements/inc/animejs/js/animejs-scrollmagic.min.js?ver=3.2.1
+File Name: F:\asterprinter.cash\wp-content\plugins\muchwow-elements\inc\animejs\js\animejs-scrollmagic.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/plugins/muchwow-elements/inc/animejs/js/animejs.min.js?ver=3.2.1
+File Name: F:\asterprinter.cash\wp-content\plugins\muchwow-elements\inc\animejs\js\animejs.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/plugins/muchwow-elements/reactheme-header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.0.0
+File Name: F:\asterprinter.cash\wp-content\plugins\muchwow-elements\reactheme-header-footer-elementor\assets\css\header-footer-elementor.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/plugins/muchwow-elements/widgets/marquee/marquee-css/marquee.css?ver=6.8.3
+File Name: F:\asterprinter.cash\wp-content\plugins\muchwow-elements\widgets\marquee\marquee-css\marquee.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/css/animate.min.css?ver=6.8.3
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/css/custom-theme-core.css?ver=6.8.3
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\css\custom-theme-core.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/css/responsive.min.css?ver=6.8.3
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\css\responsive.min.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/css/rt-icons.css?ver=6.8.3
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\css\rt-icons.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/css/swiper-bundle.min.css?ver=6.8.3
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/css/theme-core.css?ver=6.8.3
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\css\theme-core.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/font/rt-icons.eot?43910631
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\font\rt-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/font/rt-icons.svg?43910631
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\font\rt-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/font/rt-icons.ttf?43910631
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\font\rt-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/font/rt-icons.woff2?43910631
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\font\rt-icons.woff2
+Content Type: font/woff2
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/font/rt-icons.woff?43910631
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\font\rt-icons.woff
+Content Type: font/woff
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/fonts/aeonik-fono/AeonikFono-Bold.woff
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\fonts\aeonik-fono\AeonikFono-Bold.woff
+Content Type: font/woff
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/fonts/aeonik-fono/AeonikFono-Bold.woff2
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\fonts\aeonik-fono\AeonikFono-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/fonts/aeonik-fono/AeonikFono-Regular.woff
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\fonts\aeonik-fono\AeonikFono-Regular.woff
+Content Type: font/woff
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/fonts/aeonik-fono/AeonikFono-Regular.woff2
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\fonts\aeonik-fono\AeonikFono-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/fonts/bilgres/Bilgres.woff
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\fonts\bilgres\Bilgres.woff
+Content Type: font/woff
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/fonts/bilgres/Bilgres.woff2
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\fonts\bilgres\Bilgres.woff2
+Content Type: font/woff2
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/fonts/unicons/unicons.min.css?ver=1.0.0
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\fonts\unicons\unicons.min-1.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/fonts/unicons/unicons.min.css?ver=6.8.3
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\fonts\unicons\unicons.min.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/fonts/unicons/unicons.ttf
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\fonts\unicons\unicons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/js/app-head-bs.js?ver=1.1.3
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\js\app-head-bs.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/js/bootstrap.min.js?ver=5.2.0
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/js/main.js?ver=1.0.1
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/js/swiper-bundle.min.js?ver=8.2.3
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\js\swiper-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/js/theme-core-bundle.min.js?ver=1.1.3
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\js\theme-core-bundle.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/assets/scss/theme.css?ver=6.8.3
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\assets\scss\theme.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/themes/muchwow/style.css?ver=6.8.3
+File Name: F:\asterprinter.cash\wp-content\themes\muchwow\style.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/1002010149-removebg-preview-2-100x100.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\1002010149-removebg-preview-2-100x100.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/1002010149-removebg-preview-2-150x150.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\1002010149-removebg-preview-2-150x150.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/1002010149-removebg-preview-2-300x300.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\1002010149-removebg-preview-2-300x300.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/1002010149-removebg-preview-2-87x87.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\1002010149-removebg-preview-2-87x87.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/1002010149-removebg-preview-2.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\1002010149-removebg-preview-2.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/Dextools_Logo.svg
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\Dextools_Logo.svg
+Content Type: image/svg+xml
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/e62de698746dfcb09d2d64f85371eed1-100x100.jpg
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\e62de698746dfcb09d2d64f85371eed1-100x100.jpg
+Content Type: image/jpeg
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/e62de698746dfcb09d2d64f85371eed1-150x150.jpg
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\e62de698746dfcb09d2d64f85371eed1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/e62de698746dfcb09d2d64f85371eed1-300x300.jpg
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\e62de698746dfcb09d2d64f85371eed1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/e62de698746dfcb09d2d64f85371eed1-600x600.jpg
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\e62de698746dfcb09d2d64f85371eed1-600x600.jpg
+Content Type: image/jpeg
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/e62de698746dfcb09d2d64f85371eed1-87x87.jpg
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\e62de698746dfcb09d2d64f85371eed1-87x87.jpg
+Content Type: image/jpeg
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/e62de698746dfcb09d2d64f85371eed1.jpg
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\e62de698746dfcb09d2d64f85371eed1.jpg
+Content Type: image/jpeg
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/telegram-logo-100x100.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\telegram-logo-100x100.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/telegram-logo-150x150.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\telegram-logo-150x150.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/telegram-logo-300x300.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\telegram-logo-300x300.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/telegram-logo-87x87.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\telegram-logo-87x87.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/telegram-logo.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\telegram-logo.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/twitter-100x100.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\twitter-100x100.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/twitter-150x150.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\twitter-150x150.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/twitter-300x300.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\twitter-300x300.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/twitter-87x87.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\twitter-87x87.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/2025/09/twitter.png
+File Name: F:\asterprinter.cash\wp-content\uploads\2025\09\twitter.png
+Content Type: image/png
+
+Uri: https://asterprinter.cash/wp-content/uploads/elementor/css/custom-frontend.min.css?ver=1759293263
+File Name: F:\asterprinter.cash\wp-content\uploads\elementor\css\custom-frontend.min.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/uploads/elementor/css/custom-widget-image-box.min.css?ver=1759293263
+File Name: F:\asterprinter.cash\wp-content\uploads\elementor\css\custom-widget-image-box.min.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/uploads/elementor/css/post-1011.css?ver=1759293264
+File Name: F:\asterprinter.cash\wp-content\uploads\elementor\css\post-1011.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/uploads/elementor/css/post-1403.css?ver=1759293264
+File Name: F:\asterprinter.cash\wp-content\uploads\elementor\css\post-1403.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-content/uploads/elementor/css/post-1555.css?ver=1759293263
+File Name: F:\asterprinter.cash\wp-content\uploads\elementor\css\post-1555.css
+Content Type: text/css
+
+Uri: https://asterprinter.cash/wp-includes/js/dist/hooks.min.js?ver=4d63a3d491d11ffd8ac6
+File Name: F:\asterprinter.cash\wp-includes\js\dist\hooks.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-includes/js/dist/i18n.min.js?ver=5e580eb46a90c2b997e6
+File Name: F:\asterprinter.cash\wp-includes\js\dist\i18n.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-includes/js/imagesloaded.min.js?ver=5.0.0
+File Name: F:\asterprinter.cash\wp-includes\js\imagesloaded.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: F:\asterprinter.cash\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: F:\asterprinter.cash\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3
+File Name: F:\asterprinter.cash\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://asterprinter.cash/wp-json/
+File Name: F:\asterprinter.cash\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://asterprinter.cash/wp-json/oembed/1.0/embed?url=https:%2F%2Fasterprinter.cash%2F
+File Name: F:\asterprinter.cash\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://asterprinter.cash/wp-json/oembed/1.0/embed?url=https:%2F%2Fasterprinter.cash%2F&format=xml
+File Name: F:\asterprinter.cash\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://asterprinter.cash/wp-json/wp/v2/pages/1403
+File Name: F:\asterprinter.cash\wp-json\wp\v2\pages\1403
+Content Type: application/json
+
+Uri: https://asterprinter.cash/xmlrpc.php?rsd
+File Name: F:\asterprinter.cash\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital,wght@0,400;0,600;1,400;1,600&family=IBM+Plex+Sans+Arabic:wght@400;700&display=swap
+File Name: F:\asterprinter.cash\css2-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght%40100%3B200%3B300%3B400%3B500%3B600%3B700&display=swap&ver=1.0.0
+File Name: F:\asterprinter.cash\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,300..700;1,300..700&family=Inter:wght@300..700&family=IBM+Plex+Sans+Arabic:wght@400;500;700&display=swap
+File Name: F:\asterprinter.cash\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Bangers:100,100italic,200,200italic,300,300italic,400,400italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic&display=swap
+File Name: F:\asterprinter.cash\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/bangers/v25/FeVQS0BTqb0h60ACH55Q3Q.ttf
+File Name: F:\asterprinter.cash\s\bangers\v25\FeVQS0BTqb0h60ACH55Q3Q.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v20/-F63fjptAgt5VM-kVkqdyU8n5ig.ttf
+File Name: F:\asterprinter.cash\s\ibmplexmono\v20\-F63fjptAgt5VM-kVkqdyU8n5ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v20/-F6pfjptAgt5VM-kVkqdyU8n1ioq0g.ttf
+File Name: F:\asterprinter.cash\s\ibmplexmono\v20\-F6pfjptAgt5VM-kVkqdyU8n1ioq0g.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v20/-F6qfjptAgt5VM-kVkqdyU8n3vAO8lc.ttf
+File Name: F:\asterprinter.cash\s\ibmplexmono\v20\-F6qfjptAgt5VM-kVkqdyU8n3vAO8lc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexmono/v20/-F6sfjptAgt5VM-kVkqdyU8n1ioSClNFhw.ttf
+File Name: F:\asterprinter.cash\s\ibmplexmono\v20\-F6sfjptAgt5VM-kVkqdyU8n1ioSClNFhw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsansarabic/v14/Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6bs6.ttf
+File Name: F:\asterprinter.cash\s\ibmplexsansarabic\v14\Qw3CZRtWPQCuHme67tEYUIx3Kh0PHR9N6bs6.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsansarabic/v14/Qw3MZRtWPQCuHme67tEYUIx3Kh0PHR9N6YNe3PA.ttf
+File Name: F:\asterprinter.cash\s\ibmplexsansarabic\v14\Qw3MZRtWPQCuHme67tEYUIx3Kh0PHR9N6YNe3PA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsansarabic/v14/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOG-dCT.ttf
+File Name: F:\asterprinter.cash\s\ibmplexsansarabic\v14\Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOG-dCT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsansarabic/v14/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOW_tCT.ttf
+File Name: F:\asterprinter.cash\s\ibmplexsansarabic\v14\Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YOW_tCT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsansarabic/v14/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPi-NCT.ttf
+File Name: F:\asterprinter.cash\s\ibmplexsansarabic\v14\Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPi-NCT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsansarabic/v14/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPO_9CT.ttf
+File Name: F:\asterprinter.cash\s\ibmplexsansarabic\v14\Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPO_9CT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/ibmplexsansarabic/v14/Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPy_dCT.ttf
+File Name: F:\asterprinter.cash\s\ibmplexsansarabic\v14\Qw3NZRtWPQCuHme67tEYUIx3Kh0PHR9N6YPy_dCT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+File Name: F:\asterprinter.cash\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuFuYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+File Name: F:\asterprinter.cash\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuGKYMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+File Name: F:\asterprinter.cash\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuI6fMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+File Name: F:\asterprinter.cash\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuLyfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/inter/v20/UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+File Name: F:\asterprinter.cash\s\inter\v20\UcCO3FwrK3iLTeHuS_nVMrMxCp50SjIw2boKoduKmMEVuOKfMZg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0wcHy5X.ttf
+File Name: F:\asterprinter.cash\s\intertight\v9\NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0wcHy5X.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHy5X.ttf
+File Name: F:\asterprinter.cash\s\intertight\v9\NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xCHy5X.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xwHy5X.ttf
+File Name: F:\asterprinter.cash\s\intertight\v9\NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0xwHy5X.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ycGC5X.ttf
+File Name: F:\asterprinter.cash\s\intertight\v9\NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ycGC5X.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v9/NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ylGC5X.ttf
+File Name: F:\asterprinter.cash\s\intertight\v9\NGShv5HMAFg6IuGlBNMjxLsC66ZMtb8hyW62x0ylGC5X.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiqXA.ttf
+File Name: F:\asterprinter.cash\s\intertight\v9\NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj0QiqXA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqXA.ttf
+File Name: F:\asterprinter.cash\s\intertight\v9\NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mj6AiqXA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXA.ttf
+File Name: F:\asterprinter.cash\s\intertight\v9\NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjDw-qXA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-qXA.ttf
+File Name: F:\asterprinter.cash\s\intertight\v9\NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjPQ-qXA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/intertight/v9/NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjUQ-qXA.ttf
+File Name: F:\asterprinter.cash\s\intertight\v9\NGSnv5HMAFg6IuGlBNMjxJEL2VmU3NS7Z2mjUQ-qXA.ttf
+Content Type: font/ttf
+

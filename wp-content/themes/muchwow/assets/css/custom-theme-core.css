@@ -1,0 +1,136 @@
+/* Demo 7 Color Variable  */
+:root {
+    --bs-bleu-900-rgb: 12,26,49;
+    --bs-bleu-950-rgb: 6, 13, 25;
+    --bs-bleu-800-rgb: 24, 52, 98;
+}
+:where(.uc-transition-fade), :where([class*=uc-transition-scale]), :where([class*=uc-transition-slide]) {
+    --uc-position-translate-x: 0;
+    --uc-position-translate-y: 0;
+}
+.uc-transition-fade, [class*=uc-transition-scale], [class*=uc-transition-slide] {
+    --uc-translate-x: 0;
+    --uc-translate-y: 0;
+    --uc-scale-x: 1;
+    --uc-scale-y: 1;
+    transform: translate(var(--uc-position-translate-x),var(--uc-position-translate-y)) translate(var(--uc-translate-x),var(--uc-translate-y)) scale(var(--uc-scale-x),var(--uc-scale-y));
+    transition: .3s ease-out;
+    transition-property: opacity,transform,filter;
+}
+.uc-transition-active.uc-active .uc-transition-scale-up, .uc-transition-toggle .uc-transition-scale-up:focus-within, .uc-transition-toggle:focus .uc-transition-scale-up, .uc-transition-toggle:hover .uc-transition-scale-up {
+    --uc-scale-x: 1.03;
+    --uc-scale-y: 1.03;
+    opacity: 1;
+}
+figcaption, .wp-block-embed figcaption, .wp-block-video figcaption, .blocks-gallery-caption, .wp-block-image figcaption{
+    color: var(--e-global-color-text) !important;
+}
+
+/* Dark Mode Css */
+:root.uc-dark [class*="elementor-kit-"] {
+    --e-global-color-b82bca8: #fff !important;
+    --e-global-color-text:  rgba(var(--bs-gray-200-rgb)) !important;
+    --bg-gray:  rgba(var(--bs-gray-800-rgb)) !important;
+}
+:where(.uc-dark) html{
+    background: transparent;
+}
+:where(.uc-dark) p{
+    color: rgba(var(--bs-gray-200-rgb), var(--bs-text-opacity));
+}
+:where(.uc-dark) #reactheme-header.sticky-header-on:not(.fixed-header){
+    background: transparent;
+}
+:where(.uc-dark) header.sticky-header{
+    background: rgba(31, 31, 31, .75) !important;
+    color: var(--e-global-color-accent) !important;
+}
+:where(.uc-dark) .rtmega-menu-container .desktop-menu-area .rtmega-megamenu .menu-item:hover > .menu-link{
+    color: rgb(255 255 255 / 75%) !important;
+}
+:where(.uc-dark) .dark-mega-menu .rtmega-menu-container .vertical-expaned-menu-area .rtmega-megamenu > .menu-item > .menu-link{
+    color: var(--color-gray-200) !important;
+}
+:where(.uc-dark) .rtmega-menu-area .mobile-menu-area ul.rtmega-megamenu .menu-item .menu-link{
+    border-color: var(--bs-border-color);
+}
+:where(.uc-dark) .dark\:rt-all-white-color *:not(i):not(svg),
+:where(.uc-dark) .rtmega-menu-area .mobile-menu-area ul.rtmega-megamenu .menu-item .menu-link,
+:where(.uc-dark) .dark-mega-menu .rtmega-menu-container .vertical-expaned-menu-area .rtmega-megamenu > .menu-item > .menu-link:hover{
+    color: #fff !important;
+}
+:where(.uc-dark) .dark\:section-gradian{
+    background-image: linear-gradient(to bottom, var(--uc-gradient-stops)) !important;
+}
+:where(.uc-dark) .woocommerce form .form-row .input-text, 
+:where(.uc-dark) .woocommerce form .form-row select,
+:where(.uc-dark) .single-product div.product .woocommerce-tabs #reviews #review_form_wrapper #commentform #comment,
+:where(.uc-dark) .woocommerce-page .wc-block-components-totals-coupon__form #wc-block-components-totals-coupon__input-coupon,
+:where(.uc-dark) .woocommerce-page .wc-block-components-form .wc-block-components-text-input input,
+:where(.uc-dark) .woocommerce .woocommerce-info, 
+:where(.uc-dark) .woocommerce .woocommerce-message,
+:where(.uc-dark) .woocommerce table.shop_table.wishlist_table tr th,
+:where(.uc-dark) .woocommerce table.shop_table.wishlist_table tr td,
+:where(.uc-dark) .dark\:bg-opacity-10 input,
+:where(.uc-dark) .dark\:bg-opacity-10 textarea{
+    --bs-bg-opacity: 0.05;
+    background: rgba(var(--bs-gray-100-rgb),var(--bs-bg-opacity)) !important;
+    color: var(--e-global-color-accent) !important;
+}
+:where(.uc-dark) .woocommerce-page label,
+:where(.uc-dark) .woocommerce-page input::placeholder,
+:where(.uc-dark) .woocommerce-page textarea::placeholder {
+    color: rgba(var(--bs-gray-200-rgb), var(--bs-text-opacity)) !important;
+}
+:where(.uc-dark) .woocommerce-page .wc-block-components-address-form .wc-block-components-text-input input,
+:where(.uc-dark) .woocommerce-page .wc-blocks-components-select .wc-blocks-components-select__container,
+:where(.uc-dark) .woocommerce-page .wc-blocks-components-select .wc-blocks-components-select__select,
+:where(.uc-dark) .woocommerce-page .wc-block-components-textarea{
+    background: #1c1c1e !important;
+    color: var(--e-global-color-accent) !important;
+}
+:where(.uc-dark) .dark-icon-box-bg > .elementor-widget-container{
+    background-color: rgba(var(--bs-gray-600-rgb)) !important;
+}
+:where(.uc-dark) .uc-pageloader,
+:where(.uc-dark) .react-sideabr .widget,
+:where(.uc-dark) .dark-icon-box-bg2 > .elementor-widget-container,
+:where(.uc-dark) .rt-dark-acco-item-bg .accordion-item{
+    background-color: rgba(var(--bs-gray-800-rgb)) !important;
+}
+:where(.uc-dark) .woocommerce .woocommerce-ordering select, 
+:where(.uc-dark) .woocommerce div.product form.cart .variations select,
+:where(.uc-dark) .rt-dark-bg-900 .rt-career-box,
+:where(.uc-dark) .rtmega-menu-mobile-sidebar,
+:where(.uc-dark) .rt-dark-bg-900 > .elementor-widget-container{
+    background-color: rgba(var(--bs-gray-900-rgb)) !important;
+}
+:where(.uc-dark) .rt-dark-section-gradient{
+    background: linear-gradient(to bottom,#081a2d 0,var(--color-blue-900)) !important;
+}
+:where(.uc-dark) .dark\:bg-opacity-5 > .elementor-widget-container{
+    opacity: 0.05;
+}
+:where(.uc-dark) .rt-dark-filter{
+    filter: invert(1);
+}
+:where(.uc-dark) .dark\:bg-bleu-800 {
+    background-color: rgba(var(--bs-bleu-800-rgb))!important;
+}
+:where(.uc-dark) .dark\:bg-bleu-900 {
+    background-color: rgba(var(--bs-bleu-900-rgb))!important;
+}
+:where(.uc-dark) .dark\:bg-bleu-950 {
+    background-color: rgba(var(--bs-bleu-950-rgb))!important;
+}
+/* tab */
+:where(.uc-dark) .rt_e_tabsTitle_border_yes .e-n-tab-title::before{
+    background-color: var(--color-gray-700);
+}
+/* wishlist */
+:where(.uc-dark) .eswislst-counter-box .eswislst-counter .eswislst-close-icon svg{
+    fill: var(--e-global-color-accent);
+}
+:where(.uc-dark) .eswislst-counter-box #eswislst_popup_modal .eswislst-modal-content{
+    background-color: var(--color-gray-800);
+}
